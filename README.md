@@ -4,3 +4,6 @@ Hello my name is Pau Homs. I am currently student of computer engineering. I hav
 
 - You can also see my vim settings.  
 [![Vim config](https://github-readme-stats.vercel.app/api/pin/?username=pauhoms&repo=vim-config)](https://github.com/pauhoms/vim-config)
+
+- An example of how to structure a laravel project using best practices and hexagonal architecture.
+[![Clean code in laravel](https://github-readme-stats.vercel.app/api/pin/?username=pauhoms&repo=example-of-clean-code-in-laravel)](https://github.com/pauhoms/example-of-clean-code-in-laravel)
