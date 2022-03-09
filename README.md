@@ -5,5 +5,5 @@ Hello my name is Pau Homs. I am currently student of data science degree. I have
 - Project for learn DDD.   
 [![DDD](https://github-readme-stats.vercel.app/api/pin/?username=pauhoms&repo=ddd-slim4)](https://github.com/pauhoms/ddd-slim4)
 
-- You can also see my vim settings.  
+- You can also see my dotfiles.  
 [![Vim config](https://github-readme-stats.vercel.app/api/pin/?username=pauhoms&repo=dotfiles)](https://github.com/pauhoms/dotfiles)
